@@ -40,22 +40,22 @@ ijh26
 * 98e6679 1st commit (1st on master)
 jts550
 *   1671211 9th Commit, 5th to master, merge experiment to master
-|\  
+|\
 | *   f43b84b 7th Commit, 2nd in experiment, testing in experiment
-| |\  
+| |\
 | * | 7d1d79e 4th Commit (1st to experimental)
 * | |   daffac8 8th Commit, 4th master, testing into master
-|\ \ \  
-| | |/  
-| |/|   
+|\ \ \
+| | |/
+| |/|
 | * |   b13befb 5th commit, 2nd to testing, master into testing
-| |\ \  
-| | |/  
-| |/|   
+| |\ \
+| | |/
+| |/|
 | * | 451f4c1 2nd Commit (1st Testing)
 * | | c033905 6th Commit, 3rd master
-| |/  
-|/|   
+| |/
+|/|
 * | 95c7a8c 3rd Commit (2nd Master)
-|/  
+|/
 * 3dee61d Initial Commit'
