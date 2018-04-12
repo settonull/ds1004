@@ -18,6 +18,26 @@ cdr380
 * | c2ffadf branch 1 commit
 |/  
 * 7e10a90 creating inital
+ijh26
+*   583f2c6 7+8
+|\  
+| *   1072d17 5+6
+| |\  
+| | * 5d89583 5th commit (3rd on master)
+* | |   fd57727 4+6
+|\ \ \  
+| |/ /  
+|/| |   
+| * | 1ccffa2 4th commit (2nd on node3)
+* | |   37a4467 2+3
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * e9cfa2c 2nd commit (2nd on master)
+* | 005d88f 3rd commit (1st on node3)
+|/  
+* 98e6679 1st commit (1st on master)
 jts550
 *   1671211 9th Commit, 5th to master, merge experiment to master
 |\  
