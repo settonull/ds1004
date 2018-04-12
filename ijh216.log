@@ -1,3 +1,23 @@
+cdr380
+*   53c14f6 final merge
+|\  
+| *   110687a center and master merge
+| |\  
+| | * a992afc advancing master again
+* | |   136858c Merge commit 'f0b18ad' into HEAD
+|\ \ \  
+| |/ /  
+| * |   f0b18ad commiting first master and branch merge
+| |\ \  
+| | |/  
+| |/|   
+| * | 3386937 advancing master
+* | | 0bbd683 branch commit 2
+| |/  
+|/|   
+* | c2ffadf branch 1 commit
+|/  
+* 7e10a90 creating inital
 ijh26
 *   583f2c6 7+8
 |\  
